@@ -15,4 +15,4 @@ jobs:
           gh issue create \
             --repo "${{ github.repository }}" \
             --title "Add a sandbox note to README" \
-            --body "Append one line to README.md: \`This repository is a sandbox for dsh-superagent.\` Then open a pull request."
+            --body "@1565341095 Please append one line to README.md: \`This repository is a sandbox for dsh-superagent.\` Then open a pull request."
